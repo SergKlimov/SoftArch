@@ -10,4 +10,9 @@ Software Architecture Dev
 - добавление сведений о документе в бд и представление его в электронном каталоге от лица администратора
  
 #Диаграмма прецедентов#
-![Диаграмма прецедентов](http://www.interface.ru/ca/vvu1.gif)
+![template](http://www.interface.ru/ca/vvu1.gif)
+
+#Варианты использования#
+![template](http://www.interface.ru/ca/vvu1.gif)
+#Диаграмма классов#
+![template](http://www.interface.ru/ca/vvu1.gif)

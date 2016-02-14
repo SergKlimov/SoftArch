@@ -14,7 +14,7 @@ Software Architecture Dev
 - добавление сведений о документе в бд и представление его в электронном каталоге от лица администратора
  
 #Диаграмма прецедентов#
-![template](http://www.interface.ru/ca/vvu1.gif)
+![template](https://github.com/SergKlimov/SoftArch/blob/master/Use%20case%20diag.png?raw=true)
 
 #Варианты использования#
 ![template](http://www.interface.ru/ca/vvu1.gif)
